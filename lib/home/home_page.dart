@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 import 'package:consuming_api_deputies/comicao/comissoes.dart';
-=======
-import 'package:consuming_api_deputies/comissao/comissoes.dart';
->>>>>>> 13a4e0b (first commit)
 import 'package:consuming_api_deputies/deputados/deputados.dart';
 import 'package:flutter/material.dart';
 
